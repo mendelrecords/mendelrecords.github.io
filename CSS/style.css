@@ -1,2 +1,6 @@
-body{background-color: blue;
+body {
+    text-align: end;
+    margin: 100px;
+    max-inline-size: 1200px;
+
 }
