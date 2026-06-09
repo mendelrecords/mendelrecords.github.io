@@ -1,5 +1,5 @@
 body {
-    margin: 10px;
+    margin: auto;
     max-inline-size: 1200px; 
     
     font-family: "Public Sans", sans-serif;
@@ -15,8 +15,13 @@ grid-template-columns: 50px auto;
 height: max-content;
 padding: 1px;
 margin-top: 10px;
+align-items: center;
+
 
 }
+
+.center {display: block; margin: auto;}
+
 
 .box{
 max-width: 1000px;
@@ -77,5 +82,4 @@ article{
 }
 
 
-.center {display: block; margin: auto;}
 
