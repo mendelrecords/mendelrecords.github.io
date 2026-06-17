@@ -2,7 +2,7 @@ body {
     margin: auto;
     max-inline-size: 1200px; 
     
-    font-family: "Public Sans", sans-serif;
+    font-family: "Syne Mono", sans-serif;
     font-optical-sizing: auto;
     font-weight: 2px;
     font-style: normal;
@@ -81,5 +81,10 @@ article{
   max-height: max-content;
 }
 
+.syne-mono-regular {
+  font-family: "Syne Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
 
 
