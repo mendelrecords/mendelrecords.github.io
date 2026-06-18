@@ -1,0 +1,60 @@
+body {
+    margin: auto;
+    max-inline-size: 1200px; 
+    font-family: "Syne Mono", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 2px;
+    font-style: normal;
+height: max-content;
+padding: 1px;
+margin-top: 10px;
+}
+
+
+.row
+{
+      display:flex;
+      flex-wrap: wrap;
+}
+
+.column
+{width: 25%;
+  text-align: center;
+}
+
+
+
+.center {display: block; margin: auto;}
+
+
+header {
+  text-align: center;
+  height: max-content;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+
+}
+
+
+
+.syne-mono-regular {
+  font-family: "Syne Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+footer{
+  margin: auto;
+  max-inline-size: 1200px; 
+  font-family: "Syne Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 2px;
+  font-style: normal;
+height: max-content;
+padding: 1px;
+margin-top: 10px;
+align-items: center;
+text-align: center;
+}
