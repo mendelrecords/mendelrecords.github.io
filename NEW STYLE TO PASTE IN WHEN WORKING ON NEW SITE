@@ -52,9 +52,13 @@ footer{
   font-optical-sizing: auto;
   font-weight: 2px;
   font-style: normal;
-height: max-content;
-padding: 1px;
-margin-top: 10px;
-align-items: center;
-text-align: center;
-}
+    grid-row: 3 / 4 ;
+    grid-column: 1 / 3;
+    column-count: 1;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    
