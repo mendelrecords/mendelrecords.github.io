@@ -1,7 +1,7 @@
 body {
     margin: auto;
     max-inline-size: 1200px; 
-    font-family: "Syne Mono", sans-serif;
+    font-family: "Radio Canada Big", sans-serif;
     font-optical-sizing: auto;
     font-weight: 2px;
     font-style: normal;
@@ -62,7 +62,12 @@ header {
 
 }
 
-
+.radio-canada-big {
+  font-family: "Radio Canada Big", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 2;
+  font-style: normal;
+}
 
 .syne-mono-regular {
   font-family: "Syne Mono", monospace;
